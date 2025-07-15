@@ -72,7 +72,7 @@ If you want to explore other sections, navigate to the appropriate folder like t
 ```bash
 cd path/to/python-code-examples/<folder-name>
 ```
-Replace <folder-name> with the folder you want to access (e.g., advanced, learning_resources, or projects).
+Replace 'folder-name' with the folder you want to access (e.g., advanced, learning_resources, or projects).
 
 Run the Python file by typing:
 ```bash
