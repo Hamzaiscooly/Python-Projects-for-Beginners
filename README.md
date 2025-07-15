@@ -33,7 +33,7 @@ python --version
 # or
 python3 --version
 You should see output like: Python 3.12.2
-
+```bash
 2. Clone This Repository
 bash
 git clone https://github.com/Hamzaiscooly/python-code-examples.git
