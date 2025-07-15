@@ -62,10 +62,18 @@ If you see a version number, Python is installed correctly!
 ### Step 3: Running Python Files
 Open your terminal or command prompt.
 
-Navigate to the folder containing the Python file you want to run. For example:
+Navigate to the folder containing the Python file you want to run.  
+   For example, if you want to run a beginner project, type:
+
+   ```bash
+   cd path/to/python-code-examples/projects
+ ```
+If you want to explore other sections, navigate to the appropriate folder like this:
 ```bash
-cd path/to/your/project/folder
+cd path/to/python-code-examples/<folder-name>
 ```
+Replace <folder-name> with the folder you want to access (e.g., advanced, learning_resources, or projects).
+
 Run the Python file by typing:
 ```bash
 python filename.py
