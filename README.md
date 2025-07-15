@@ -27,11 +27,18 @@ This is the place for you. These projects will help build your confidence and te
 ---
 ## ▶️ How to Use
 
-To get started, clone the repository using:
-`git clone https://github.com/your-username/python-code-examples.git`
-Then go into the `projects` folder:
-`cd python-code-examples/projects`
-Now open any `.py` file and run it using:
-`python filename.py`
+To get started, open a terminal and run:
 
-Happy learning and have fun coding! 🐍✨
+```bash
+git clone https://github.com/your-username/python-code-examples.git
+```
+Then:
+```bash
+cd python-code-examples/projects
+```
+Atlast:
+```bash
+python filename.py
+```
+## Thats it Hvae Fun and Explore and maybe tweak some things!
+Happy learning and have fun tweaking things! 🐍✨
