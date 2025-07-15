@@ -25,7 +25,12 @@ If you're learning Python and asking yourself:
 This is the place for you. These projects will help build your confidence and teach you how to think like a programmer — step by step.
 
 ---
+## ▶️ Important Step
+To get started, clone the repository to your computer by running this command in your terminal or command prompt:
 
+```bash
+git clone https://github.com/Hamzaiscooly/python-code-examples.git
+```
 ## 🛠️ Getting Started with Python: Installation & Running Code
 
 ### Step 1: Install Python
@@ -84,20 +89,6 @@ python3 filename.py
 ```
 Replace filename.py with the actual name of the Python script.
 
-## ▶️ How to Use
-To get started, clone the repository using:
-
-```bash
-git clone https://github.com/Hamzaiscooly/python-code-examples.git
-```
-```bash
-cd python-code-examples/projects
-```
-Then open any .py file in your favorite code editor and run it using:
-```bash
-python filename.py
-```
-Replace filename.py with the actual name of the Python script.
 
 ## 🐍 Want to Learn Python Tips and Tricks?
 This repository also includes a dedicated learning_resources/ folder filled with beginner-friendly tips, helpful websites, video tutorials, books, and more!
