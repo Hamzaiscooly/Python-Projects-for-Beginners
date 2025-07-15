@@ -27,19 +27,20 @@ This is the place for you. These projects will help build your confidence and te
 ---
 ## ▶️ How to Use
 
-To get started, open a terminal and run:
+To get started, Clone this repo:
 
 ```bash
 git clone https://github.com/Hamzaiscooly/python-code-examples.git
 ```
-Then:
+Then run this command:
 ```bash
 cd python-code-examples/projects
 ```
-Atlast:
+Finally run the python scripts that are in the repo:
 ```bash
 python helloworld.py
 ```
+The Output should be: Hello, World
 ```bash
 Expected Output: Hello, World
 ```
