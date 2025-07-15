@@ -41,5 +41,17 @@ Finally run the python scripts that are in the repo:
 python notes_app.py
 ```
 You can also run other projects! Dont forget to also explore the folders and run the files in them!
+## 🐍 Want to Learn Python Tips and Tricks?
+
+This repository also includes a dedicated **learning_resources/** folder filled with beginner-friendly tips, helpful websites, video tutorials, books, and more!
+
+If you're looking to:
+- Learn Python step-by-step
+- Explore helpful links and cheat sheets
+- Discover best practices and tricks
+
+👉 Check out the [`learning_resources/`](../learning_resources/) folder to boost your learning!
+---
+
 ## Thats it have fun ✨ and explore 🐍!
 Happy learning and have fun exploring the python projects! 🐍✨
