@@ -38,7 +38,10 @@ cd python-code-examples/projects
 ```
 Atlast:
 ```bash
-python helloworld.py (Example)
+python helloworld.py
 ```
-## Thats it Hvae Fun and Explore and maybe tweak some things!
+```bash
+Expected Output: Hello, World
+```
+## Thats it have fun ✨ and explore 🐍 and maybe tweak some things!
 Happy learning and have fun tweaking things! 🐍✨
