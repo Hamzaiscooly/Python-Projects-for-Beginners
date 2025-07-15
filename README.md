@@ -20,9 +20,9 @@ These are **real projects**, but kept small and simple — so you can:
 - Learn new techniques by doing!
 
 If you're learning Python and asking yourself:
-> *“How do I start making real things?”*
+> *“How do I start making simple projects”*
 
-This is the place for you. These projects will help build your confidence and teach you how to think like a programmer — step by step.
+This is the place for you! These projects will help build your confidence and teach you how to think like a programmer — step by step.
 
 ---
 ## ▶️ How to Use
@@ -38,11 +38,8 @@ cd python-code-examples/projects
 ```
 Finally run the python scripts that are in the repo:
 ```bash
-python helloworld.py
+python notes_app.py
 ```
-The Output should be: Hello, World
-```bash
-Expected Output: Hello, World
-```
-## Thats it have fun ✨ and explore 🐍 and maybe tweak some things!
-Happy learning and have fun tweaking things! 🐍✨
+You can also run other projects! Dont forget to also explore the folders and run the files in them!
+## Thats it have fun ✨ and explore 🐍!
+Happy learning and have fun exploring the python projects! 🐍✨
