@@ -25,15 +25,13 @@ If you're learning Python and asking yourself:
 This is the place for you. These projects will help build your confidence and teach you how to think like a programmer — step by step.
 
 ---
-
 ## ▶️ How to Use
 
-```bash
-git clone https://github.com/your-username/python-code-examples.git
-cd python-code-examples/projects
-
-Then open any .py file in your favorite code editor and run it using:
-```bash
-python filename.py
+To get started, clone the repository using:
+`git clone https://github.com/your-username/python-code-examples.git`
+Then go into the `projects` folder:
+`cd python-code-examples/projects`
+Now open any `.py` file and run it using:
+`python filename.py`
 
 Happy learning and have fun coding! 🐍✨
