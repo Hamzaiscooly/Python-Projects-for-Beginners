@@ -33,15 +33,14 @@ python --version
 # or
 python3 --version
 You should see output like: Python 3.12.2
-```bash
+
 2. Clone This Repository
 bash
 git clone https://github.com/Hamzaiscooly/python-code-examples.git
 cd python-code-examples
 3. Run Example Scripts
 Pick any Python script and run it. For example:
-
-bash
+```bash
 python basics/hello_world.py
 # or
 python3 basics/hello_world.py
