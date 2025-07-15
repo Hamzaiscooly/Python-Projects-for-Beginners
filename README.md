@@ -2,7 +2,7 @@
 
 Welcome to the **Python Projects for Beginners** repo! 🎉
 
-This folder is part of a larger effort to help **new Python learners** go beyond the basics and start building real, working programs. Whether you're just starting out or reviewing what you've learned, these mini-projects are designed to be approachable, practical, and fun.
+This repo is part of a larger effort to help **new Python learners** go beyond the basics and start building real, working programs. Whether you're just starting out or reviewing what you've learned, these mini-projects are designed to be approachable, practical, and fun.
 
 You don’t need advanced Python knowledge — just a basic understanding of:
 - Printing text
