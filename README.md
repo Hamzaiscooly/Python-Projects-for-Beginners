@@ -30,7 +30,7 @@ This is the place for you. These projects will help build your confidence and te
 To get started, open a terminal and run:
 
 ```bash
-git clone https://github.com/your-username/python-code-examples.git
+git clone https://github.com/Hamzaiscooly/python-code-examples.git
 ```
 Then:
 ```bash
@@ -38,7 +38,7 @@ cd python-code-examples/projects
 ```
 Atlast:
 ```bash
-python filename.py
+python helloworld.py (Example)
 ```
 ## Thats it Hvae Fun and Explore and maybe tweak some things!
 Happy learning and have fun tweaking things! 🐍✨
