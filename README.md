@@ -1,8 +1,8 @@
 # 🧪 Python Projects for Beginners
 
-Welcome to the **Python Projects for Beginners** repo! 🎉
+Welcome to the **Python Projects for Beginners** folder! 🎉
 
-This repo is part of a larger effort to help **new Python learners** go beyond the basics and start building real, working programs. Whether you're just starting out or reviewing what you've learned, these mini-projects are designed to be approachable, practical, and fun.
+This folder is part of a larger effort to help **new Python learners** go beyond the basics and start building real, working programs. Whether you're just starting out or reviewing what you've learned, these mini-projects are designed to be approachable, practical, and fun.
 
 You don’t need advanced Python knowledge — just a basic understanding of:
 - Printing text
@@ -25,3 +25,15 @@ If you're learning Python and asking yourself:
 This is the place for you. These projects will help build your confidence and teach you how to think like a programmer — step by step.
 
 ---
+
+## ▶️ How to Use
+
+```bash
+git clone https://github.com/your-username/python-code-examples.git
+cd python-code-examples/projects
+
+Then open any .py file in your favorite code editor and run it using:
+```bash
+python filename.py
+
+Happy learning and have fun coding! 🐍✨
